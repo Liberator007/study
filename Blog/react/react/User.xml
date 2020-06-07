@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfUserLogin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserLogin>
+    <Username>Anton</Username>
+    <Password>Anton</Password>
+    <Role>user</Role>
+  </UserLogin>
+  <UserLogin>
+    <Username>Selyavi</Username>
+    <Password>Selyavi</Password>
+    <Role>user</Role>
+  </UserLogin>
+  <UserLogin>
+      <Username>Markus</Username>
+      <Password>Markus</Password>
+      <Role>user</Role>
+    </UserLogin>
+  <UserLogin>
+    <Username>Lop</Username>
+    <Password>Lop</Password>
+    <Role>user</Role>
+  </UserLogin>
+  <UserLogin>
+    <Username>LOL</Username>
+    <Password>LOL</Password>
+    <Role>user</Role>
+  </UserLogin>
+  <UserLogin>
+    <Username>Kek</Username>
+    <Password>Kek</Password>
+    <Role>user</Role>
+  </UserLogin>
+</ArrayOfUserLogin>
