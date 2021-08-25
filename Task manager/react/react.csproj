@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="axios" Version="0.16.2" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.18" />
     <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.2" />
     <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
     <PackageReference Include="Serenity.Web" Version="3.12.2" />
